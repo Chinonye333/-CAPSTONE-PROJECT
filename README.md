@@ -131,7 +131,7 @@ The analysis focuses on identifying profitable countries and products, evaluatin
 The objective is to generate insights that can support sales strategy, customer relationship management, product decisions, and profitability improvement.
 Tools: Excel, Power BI, Dax, Modeling, Visualization
 
-
+![](SUPERSTORE -3.png)
 
 
 
