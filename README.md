@@ -1,6 +1,6 @@
 ## DATA ANALYTICS CAPSTONE PROJECT
 ### ONYEALI ESTHER CHINONYEREM
-  ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/images%20(1).jpeg)
+  ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/images%20(1).png)
 
                                                                       
 #### Project Type: Capstone Project
