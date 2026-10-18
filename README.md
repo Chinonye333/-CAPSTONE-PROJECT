@@ -56,15 +56,15 @@ Power BI and Excel were used to transform the datasets into interactive dashboar
 
 ### CAPSTONE PROJECT 6: NYC COLLISION ANALYSIS
 #### Dataset 2: NYC Motor Vehicle Collision Analysis | Total Accidents: 216k
-
-![](./https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/Capstone%20Project%20-%20Nyc%20Collision.pbix)
-
 The NYC Motor Vehicle Collision dataset contains information about reported traffic collisions, including collision dates and times, locations, contributing factors, vehicle types, and the number of people injured or killed.
 The analysis depicts accident frequency, temporal patterns, high-risk locations, and contributing factors to identify trends that may support road safety planning and targeted accident-prevention measures.
 
+You can interact with the live visualization [link](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/Capstone%20Project%20-%20Nyc%20Collision.pbix)
+
+#### Visualization and Analysis
 ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/NYC%20COLLISION%20DB.png)
 
-
+### Analysis:
 - Question 1: Compare the % of total accidents by month. Do you notice any seasonal  patterns?
 - Question 2: Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?
 - Question 3: On which particular street were the most accidents reported? What does that represent as a % of all reported accidents?
@@ -101,8 +101,10 @@ Unsafe Speed is the deadliest cause per accident. About 1.4% of its crashes were
 The Employee Survey Responses dataset contains employee feedback collected through survey questions, along with information about departments and organizational roles.
 The dashboard provides insights into employees’ satisfaction, workplace experiences, perceptions of management, and organizational culture. The analysis focuses on the survey questions with the highest agreement and disagreement, trends across departments and roles, and recommendations for improving employee satisfaction.
 
+#### Visualization and Analysis
 ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/Employee%20Response%20-5.png)
 
+### Analysis:
 - Question 1: Which survey questions did respondents agree with or disagree with most?
 - Question 2: Do you see any patterns or trends by department or role?
 - Question 3: As an employer, what steps might you take to improve employee satisfaction based on the survey results?
@@ -143,14 +145,28 @@ Expected outcome: Employees may feel more valued, appreciated, and motivated to 
 The Global Superstore dataset contains information about customer orders, products, sales, profits, discounts, shipping costs, and geographical markets.
 The analysis focuses on identifying profitable countries and products, evaluating shipping costs, comparing subcategory and city profitability, and understanding customer purchasing patterns.
 The objective is to generate insights that can support sales strategy, customer relationship management, product decisions, and profitability improvement.
-Tools: Excel, Power BI, Dax, Modeling, Visualization
+Tools: 
+- Excel
+- Power BI
+- Dax
+- Modeling
+- Visualization
+  
+You can interact with the live visualization [link](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/Capstone%20Project%201-%20Global%20Superstore.pbix)
+
+#### Visualization - (Product Summary)
 
 ![Superstore Dashboard- product summary](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/SUPERSTORE%20-3.png)
 
+#### Visualization - (Mkt. focus on Nig. $ Asia)
+
 ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/SUPERSTORE%20-2.png)
+
+#### Visualization - (Mkt. focus on USA $ Australia)
 
 ![](https://github.com/Chinonye333/-CAPSTONE-PROJECT/blob/main/SUPERSTORE%20-4.png)
 
+### Analysis:
 - Question 1. a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
 - b) For each of these three countries, find the three products with the highest total profit. Specifically, What are the products’ names and the total profit for each product?
  
