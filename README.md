@@ -114,7 +114,9 @@ The dashboard provides insights into employees’ satisfaction, workplace experi
 Additionally, 86% of respondents agreed that their supervisor or someone at work cares about them as individuals. This indicates a generally positive perception of supervisory support.
 
 However, agreement with the statement about departmental inclusiveness was 83%, meaning that approximately 17% of respondents did not agree. This suggests that opportunities exist to strengthen inclusion and ensure that all employees feel valued.
+
 The statement “I have a best friend at work” recorded the highest disagreement at 47%. Although 53% agreed, the relatively high disagreement suggests that many employees may not experience strong personal connections or close friendships at work.
+
 Furthermore, 35% disagreed with the statement about receiving recognition in the previous seven days. This suggests that employee recognition may be an area requiring attention.
 Job satisfaction also deserves attention. Although 76% of respondents agreed that they were satisfied with their jobs, 24% disagreed. This means that approximately one in four respondents did not express agreement with the statement.
 - Q2. Most displayed departments recorded agreement levels between 74% and 85%. This suggests that positive perceptions of the workplace are relatively widespread across these departments.
@@ -145,7 +147,7 @@ Expected outcome: Employees may feel more valued, appreciated, and motivated to 
 The Global Superstore dataset contains information about customer orders, products, sales, profits, discounts, shipping costs, and geographical markets.
 The analysis focuses on identifying profitable countries and products, evaluating shipping costs, comparing subcategory and city profitability, and understanding customer purchasing patterns.
 The objective is to generate insights that can support sales strategy, customer relationship management, product decisions, and profitability improvement.
-Tools: 
+#### Tools: 
 - Excel
 - Power BI
 - Dax
