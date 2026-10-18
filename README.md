@@ -1,57 +1,57 @@
-# DATA ANALYTICS CAPSTONE PROJECT
+## DATA ANALYTICS CAPSTONE PROJECT
 ### ONYEALI ESTHER CHINONYEREM
 
                                                                       
-### Project Type: CAPSTONE PROJECTS
+#### Project Type: Capstone Project
 Subtitles: Data Analytics, Visualization, Business Insights
 #### Tools Used:
--Microsoft Excel
--Power Query
--Power BI
--DAX
--Data Modeling and Relationships
--Data Visualization
--AI
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+- Data Modeling and Relationships
+- Data Visualization
+- AI
 ### Introduction and Project Objectives
 This capstone project demonstrates the application of data analytics techniques to three datasets: NYC Motor Vehicle Collisions, Global Superstore Sales, and Employee Survey Responses.
 The project focuses on analysing data, identifying patterns and trends, answering specific analytical questions, and developing actionable recommendations based on the findings.
 Power BI and Excel were used to transform the datasets into interactive dashboards that support data exploration, visualization, and decision-making.
 #### OBJECTIVITY
--NYC Collision Analysis     	                    Examine accident patterns, frequency, and contributing        
+- NYC Collision Analysis     	                    Examine accident patterns, frequency, and contributing        
                                                               factors.            	
--Employee Survey Analysis	                      Evaluate employee responses, satisfaction patterns, and  
+- Employee Survey Analysis	                      Evaluate employee responses, satisfaction patterns, and  
                                                               areas for improvement.
--Global Superstore Analysis 	                    Investigate sales, profitability, customers, and shipping costs.
+- Global Superstore Analysis 	                    Investigate sales, profitability, customers, and shipping costs.
 #### Key Metrics 
 #### Global Superstore:
--Total Sales 
--Total Profit
--Average Shipping Cost
--Average Discount
--Profitability by Country and Product.
+- Total Sales 
+- Total Profit
+- Average Shipping Cost
+- Average Discount
+- Profitability by Country and Product.
 
 #### NYC Collision Analysis:
--Total Collisions 
--Persons Injured 
--Fatalities
--Monthly Collision Trends
--High Collision Days and Hours.
+- Total Collisions 
+- Persons Injured 
+- Fatalities
+- Monthly Collision Trends
+- High Collision Days and Hours.
 
 #### Employee Survey Analysis:
--Total Responses 
--Agreement Rate 
--Disagreement Rate
--Department-Level Sentiment
--Agreement by Survey Question.
+- Total Responses 
+- Agreement Rate 
+- Disagreement Rate
+- Department-Level Sentiment
+- Agreement by Survey Question.
 
 #### Analytical Process:
--Data collection
--Data cleaning and preparation
--Data modeling
--Data analysis
--Dashboard development
--Interpretation of results
--Insights & Recommendations
+- Data collection
+- Data cleaning and preparation
+- Data modeling
+- Data analysis
+- Dashboard development
+- Interpretation of results
+- Insights & Recommendations
 
 ### CAPSTONE PROJECT 6: NYC COLLISION ANALYSIS
 #### Dataset 2: NYC Motor Vehicle Collision Analysis | Total Accidents: 216k
