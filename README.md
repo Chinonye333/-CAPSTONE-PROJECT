@@ -192,8 +192,11 @@ This suggests that substantial discounting is contributing to the loss.
 
 #### RECOMMENDATION & CONCLUSION 
 Global Superstore should review its discount strategy, particularly in countries such as Nigeria, where excessive discounts may be contributing to losses. Discounts should be based on profit margins to ensure that sales generate sustainable profits.
+
 The company should investigate products and subcategories with high shipping costs, especially Machines and Copiers in the United States. Negotiating better rates with shipping providers and optimising delivery methods could help reduce operational expenses.
+
 The company should also tailor its pricing, product selection, and promotional activities to the performance of individual countries. Markets with strong profitability should be evaluated for growth opportunities, while underperforming markets should receive targeted attention.
+
 The analysis shows that Global Superstore has opportunities to improve profitability through better discount management, shipping cost control, product optimisation, and customer retention. By using data-driven decisions to address loss-making areas and strengthen profitable operations, the company can improve financial performance and achieve more sustainable growth.
 
 
